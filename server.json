@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.zap-hosting/zapx",
+  "title": "ZapX by ZAP-Hosting",
+  "description": "Manage ZAP-Hosting game servers, VPS, dedicated servers, TeamSpeak and domains from your AI client.",
+  "version": "1.0.0",
+  "websiteUrl": "https://zap-hosting.com/en/mcp",
+  "icons": [
+    {
+      "src": "https://zap-hosting.com/icons/icon-512x512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://zap-hosting.com/brand/toolkit/zapx-app-icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://zap-hosting.com/api/mcp"
+    }
+  ]
+}

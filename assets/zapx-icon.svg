@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-80.105 -87.3 421.61 421.61" role="img" aria-label="ZAPX">
+  <!-- Derived from public/brand/zapx-figurative-mark.svg on a dark circle (#0c0e14, dark-mode background token,
+       same treatment as public/icons/icon-192x192.png) so the mark stays readable on light browser tabs. -->
+  <circle cx="130.7" cy="123.505" r="210.805" fill="#0c0e14"/>
+  <defs>
+    <linearGradient id="zapx-mark-short" x1="126.22" y1="-10.04" x2="225.56" y2="47.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#18e888"/>
+      <stop offset="1" stop-color="#00ffff"/>
+    </linearGradient>
+    <linearGradient id="zapx-mark-main" x1="90.96" y1="50.78" x2="204.69" y2="190.41" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#18e888"/>
+      <stop offset="1" stop-color="#00ffff"/>
+    </linearGradient>
+    <linearGradient id="zapx-mark-sparkle" x1="34.94" y1="144.97" x2="85.74" y2="232.96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#18e888"/>
+      <stop offset="1" stop-color="#00ffff"/>
+    </linearGradient>
+  </defs>
+  <polygon fill="url(#zapx-mark-short)" points="261.4 0 230.3 37.71 185.41 92.14 169.47 72.81 154.47 54.62 168.42 37.71 199.52 0 261.4 0"/>
+  <polygon fill="url(#zapx-mark-main)" points="79.42 0 17.53 0 199.38 220.5 261.26 220.5 79.42 0"/>
+  <path fill="url(#zapx-mark-sparkle)" d="M115.22,182.66c-31.98-8.04-42.84-18.89-50.88-50.88-1.27-5.04-8.43-5.04-9.69,0-8.04,31.98-18.89,42.84-50.88,50.88-5.04,1.27-5.04,8.43,0,9.69,31.98,8.04,42.84,18.89,50.88,50.88,1.27,5.04,8.43,5.04,9.69,0,8.04-31.98,18.89-42.84,50.88-50.88,5.04-1.27,5.04-8.43,0-9.69Z"/>
+</svg>
